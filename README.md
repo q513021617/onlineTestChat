@@ -1,4 +1,4 @@
-# onlineTestChatApp
+# onlineTestChat
 
 #### 介绍
 子衿平台的闲聊APP
